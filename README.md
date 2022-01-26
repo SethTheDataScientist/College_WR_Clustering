@@ -26,3 +26,5 @@ The ideal case is to have the entire chart filled in becuase then you are doing 
 
 ![David Bell Career](https://user-images.githubusercontent.com/81538390/151231280-01aad2d4-1f03-467f-832b-50cf89ad4919.png)
 
+
+The Old Ordering Method has the same variables, but in a different order. I changed it to match Kevin's work after already having completed a fair number of players. 
